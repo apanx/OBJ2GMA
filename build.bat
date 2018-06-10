@@ -1,0 +1,1 @@
+pyinstaller OBJ2GMA.py -F --icon="%cd%\Dashface.ico"
